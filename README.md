@@ -8,7 +8,7 @@
 
 ----
 
-Click [here](index.html) to begin!
+Click [here](https://omers9293.github.io/aliens-vs-humanity/) to begin!
 
 Click [here](https://docs.google.com/drawings/d/1azG85ugeVYKXfT5kHqQBynU7ZrDmYcccfqMxHYh-weU/edit) to see the diagram of this CYOA!
 
