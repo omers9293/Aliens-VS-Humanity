@@ -8,8 +8,8 @@
 
 ----
 
-Click [here](https://omers9293.github.io/aliens-vs-humanity/) to begin!
+<a href="situations/start.html" >Click here to start!</a>
 
-Click [here](https://docs.google.com/drawings/d/1azG85ugeVYKXfT5kHqQBynU7ZrDmYcccfqMxHYh-weU/edit) to see the diagram of this CYOA!
+Click [here](https://docs.google.com/drawings/d/1azG85ugeVYKXfT5kHqQBynU7ZrDmYcccfqMxHYh-weU/edit) to see the diagram of this CYOA project!
 
 Made by [Omer Saleh](https://github.com/omers9293) and [Jaylen Crayton](https://github.com/jaylenc5227)
