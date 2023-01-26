@@ -9,7 +9,7 @@
 ----
 
 
-Click [here](https://omers9293.github.io/aliens-vs-humanity/situations/start.html) to start!
+Click [here](https://omers9293.github.io/aliens-vs-humanity/situations/relaxing.html) to start!
 
 Click [here](https://docs.google.com/drawings/d/1azG85ugeVYKXfT5kHqQBynU7ZrDmYcccfqMxHYh-weU/edit) to see the diagram of this CYOA project!
 
