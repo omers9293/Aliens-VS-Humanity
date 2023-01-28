@@ -13,4 +13,4 @@ Click [here](https://omers9293.github.io/aliens-vs-humanity/) to start!
 
 Click [here](https://docs.google.com/drawings/d/1azG85ugeVYKXfT5kHqQBynU7ZrDmYcccfqMxHYh-weU/edit) to see the diagram of this CYOA project!
 
-Made by [Omer Saleh](https://github.com/omers9293) and [Jaylen Crayton](https://github.com/jaylenc5227)
+Made by [Omer Saleh](https://github.com/omers9293) and [Jaylen Crayton](https://github.com/jaylenc5227)!
